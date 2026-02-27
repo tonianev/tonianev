@@ -1,31 +1,32 @@
 # Toni Anev
 
-ML Platform Engineering Lead focused on AI infrastructure, MLOps, and production delivery systems.
+ML Platform Engineering Lead building production AI infrastructure, MLOps delivery systems, and engineering operating models.
 
-I build the engineering layer that makes ML usable at scale: platform architecture, standards, pipelines, and the teams that operate them.
+I focus on the platform layer that makes machine learning reliable at scale: reproducible environments, release controls, and team workflows that improve delivery speed without sacrificing quality.
 
-Most of my production work is private. Public summaries and selected work are available at [tonianev.com](https://tonianev.com).
+Most production implementations are private. Public artifacts below are sanitized examples of design patterns and delivery systems.
 
-## Current focus
+## Current Focus
 
 - ML platform architecture for production-scale AI workloads
-- MLOps standards, release workflows, and operational reliability
-- Engineering systems that improve delivery speed and reproducibility
+- Policy-driven model release workflows and operational quality gates
+- Engineering systems for reproducibility, throughput, and reliability
 - Technical leadership for high-stakes ML programs
 
-## Selected public work
+## Featured Public Repositories
 
-- [Portfolio / case studies](https://tonianev.com)
-- [ML Platform Reference](https://github.com/tonianev/ml-platform-reference)
-- [ML Release Gates](https://github.com/tonianev/ml-release-gates)
-- [Feature Pipeline Quality](https://github.com/tonianev/feature-pipeline-quality)
+- [ml-platform-reference](https://github.com/tonianev/ml-platform-reference) - Reference architecture and operating model patterns for ML platforms
+- [ml-release-gates](https://github.com/tonianev/ml-release-gates) - Policy-based model promotion gate evaluator
+- [feature-pipeline-quality](https://github.com/tonianev/feature-pipeline-quality) - Dataset contract and quality validation CLI
+- [tonianev.github.io](https://github.com/tonianev/tonianev.github.io) - Portfolio site and public case studies
+- [proof artifacts](https://tonianev.com/proof.html) - Public engineering checklists and machine-readable references
 
-## Selected outcomes (public summaries)
+## Public Outcome Highlights
 
-- Platform and infrastructure work supporting global AI/ML R&D workloads
-- Reduced model productionization cycle time through platform and workflow improvements
-- MLOps modernization for pricing and personalization systems
-- Enterprise-scale ML/data systems for pricing, promotions, and segmentation
+- Scaled AI infrastructure supporting global R&D ML workloads
+- Increased platform throughput through IaC standardization and provisioning automation
+- Reduced model productionization cycle time with platform and workflow improvements
+- Delivered measurable business impact from production pricing and personalization systems
 
 ## Contact
 
